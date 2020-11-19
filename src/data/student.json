@@ -1,0 +1,25 @@
+    [{
+            "firstName": "John Michael",
+            "lastName": "Isaig",
+            "department": "BSIT",
+            "yearLevel": "4th year",
+            "studentNumber": "54100123",
+            "age": 22
+        },
+        {
+            "studentNumber": "54100123",
+            "firstName": "Jerome",
+            "lastName": "Sumbi",
+            "department": "BSIT",
+            "yearLevel": "4th year",
+            "age": 24
+        },
+        {
+            "studentNumber": "54100123",
+            "firstName": "Mark",
+            "lastName": "Beldad",
+            "department": "BSIT",
+            "yearLevel": "3rd year",
+            "age": 23
+        }
+    ]
